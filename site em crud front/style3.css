@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#caixa1{
+    background-color: #E8CFC1;
+    height: 5vh;
+}
+
+ul{
+    display: flex;
+    margin-top: 6px; 
+    margin-left: 80px;
+    list-style: none;
+}
+
+.logo{
+    margin-right: 190px;
+    margin-top: 5px;
+}
+
+.pesquisa{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.lupa{
+    margin-top: 80px;
+    margin-right: 5px;
+    position: absolute;
+    margin-left: -3%;
+}
+
+.menu{
+    margin-left: 400px;
+}
+
+.menu li a{
+    margin-right: 250px;
+}
+
+a{
+    color: black;
+    font-size: 18px;
+    text-decoration: transparent;
+    margin-left: 55px;
+}
+
+.produtos1{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.produto2 h3,h4{
+    text-align: center;
+}
+
+.produto2{
+    margin-right: 150px;
+}
+
+.produtos3{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.produto3 h3,h4{
+    text-align: center;
+}
+
+.produto3{
+    margin-right: 130px;
+}
+
+.produtos{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.produto1 h3,h4{
+    text-align: center;
+}
+
+.produto1{
+    margin-right: 120px;
+}
+
+#baixo{
+    background-color: #E8CFC1;
+    height: 30vh;
+}
